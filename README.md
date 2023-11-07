@@ -6,7 +6,7 @@ This project is a Python-based implementation of the popular game Fruit Ninja. I
 ## Installation
 Before you can run the game, make sure you have Python installed on your system. Python 3.x is recommended. You can download Python from [the official website](https://www.python.org/downloads/).
 
-Follow these steps to get the game up and running on your machine:
+## Follow these steps to get the game up and running on your machine:
 
 1. Clone the repository:
 ```bash
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 4. To start the game, run the following command in the terminal or command prompt:
 python fruit_ninja.py
 
-How to Play:
+## How to Play:
 1. Use your mouse to slice fruits as they appear on the screen.
 2.Avoid slicing any bombs.
 3. Try to slice multiple fruits in one swipe to earn bonus points.
@@ -29,5 +29,5 @@ Simple and intuitive mouse controls.
 Increasing difficulty as your score gets higher.
 Bright and colorful graphics.
 
-Enjoy playing Fruit Ninja!
+## Enjoy playing Fruit Ninja!
 
